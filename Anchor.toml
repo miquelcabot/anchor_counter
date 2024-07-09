@@ -1,18 +1,18 @@
 [toolchain]
 
 [features]
-resolution = true
+seeds = false
 skip-lint = false
 
 [programs.localnet]
-anchor_test = "4tb5PnCdk4epKjoje3qEXyM9xWpUPkTQZY4FexNxmRJX"
+anchor_test = "AwVPCWBAwYgVrmC4CPmhaY1skNmuZSgqwMoLy1nDtJxT"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
 cluster = "Localnet"
-wallet = "~/.config/solana/id.json"
+wallet = "/Users/miquel/.config/solana/id.json"
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
