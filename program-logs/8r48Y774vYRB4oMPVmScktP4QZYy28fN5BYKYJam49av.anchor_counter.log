@@ -1,0 +1,9 @@
+Streaming transaction logs mentioning 8r48Y774vYRB4oMPVmScktP4QZYy28fN5BYKYJam49av. Confirmed commitment
+Transaction executed in slot 33668:
+  Signature: 2Pcg85uHfhaS6hX1z2hripNXSCHHvnaoM7VMrKNVnwiSxuXpwVMXDny37DamPD8YExZsRjBg2rRWzMtGmDqGgCir
+  Status: Ok
+  Log Messages:
+    Program 8r48Y774vYRB4oMPVmScktP4QZYy28fN5BYKYJam49av invoke [1]
+    Program log: Instruction: Initialize
+    Program 8r48Y774vYRB4oMPVmScktP4QZYy28fN5BYKYJam49av consumed 221 of 200000 compute units
+    Program 8r48Y774vYRB4oMPVmScktP4QZYy28fN5BYKYJam49av success
