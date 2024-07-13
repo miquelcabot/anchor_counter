@@ -1,5 +1,5 @@
-# anchor_test
-Test Anchor framework
+# anchor_counter
+Test Anchor framework with a simple counter program.
 
 ## Build
 
